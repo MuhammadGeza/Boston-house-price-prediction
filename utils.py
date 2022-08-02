@@ -291,7 +291,7 @@ def variabels_overview(df):
                         </div>
                     <div class="row border">
                         <div class="col-lg-8">
-                            <table class="table mt-3">
+                            <table class="table table-hover mt-3">
                             <tbody>
                             <tr>
                                 <th scope="row">Count</th>
@@ -324,7 +324,7 @@ def variabels_overview(df):
                         </div>
                         <div class="row mt-2 justify-content-center">
                         <div class="col-md-8">
-                            <table class="table mt-3">
+                            <table class="table table-hover mt-3">
                             <tbody>
                                 <p class="h4 text-center">Common values</p>
                                 <tr>
