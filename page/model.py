@@ -10,11 +10,10 @@ def app():
 
     st.write("# Model")
 
-    st.markdown("""<p class="Viga">You can see the model creation flow <a href="https://github.com/MuhammadGeza" class="decoration-none">here</a></p>""", unsafe_allow_html=True)
+    st.markdown("""<p class="Viga">You can see the model creation flow <a href="https://github.com/MuhammadGeza/Boston-house-price-prediction/blob/main/notebook/notebook.ipynb" class="decoration-none">here</a></p>""", unsafe_allow_html=True)
 
     st.markdown("""<h2>What model to use?</h2>""", unsafe_allow_html=True)
     model_overview()
-    
 
     st.markdown("""<h2 style="margin-top: 1.5rem;">Parameters</h2>""", unsafe_allow_html=True)
     model_parameters(model)
