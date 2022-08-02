@@ -6,9 +6,9 @@
   width: 100%;
 }
 
-/* header {
+header {
   visibility: hidden;
-} */
+}
 
 footer {
   visibility: visible;
@@ -17,10 +17,10 @@ footer {
 footer::after {
   content: ' ◦ Created with ❤️ by Muhammad Geza Ruly Syahputra';
 }
-/* 
+
 #MainMenu {
   visibility: hidden;
-} */
+}
 
 /* End Streamlit Css */
 
