@@ -134,7 +134,7 @@ def variabels_overview(df):
                         </div>
                     <div class="row border">
                         <div class="col-lg-4 col-md-6">
-                            <table class="table mt-3">
+                            <table class="table table-hover mt-3">
                             <tbody>
                             <tr>
                                 <th scope="row">Unique</th>
